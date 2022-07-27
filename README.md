@@ -10,5 +10,7 @@
 
 ## RecJPについて
 執筆者はレコメンドに関するSlackコミュニティ「RecJP」を運営しています。
+
 [RecJPに参加する](https://join.slack.com/t/recjp/shared_invite/zt-1civmcmjr-FNT~1xY25IF0Kp91x3haZg)
-あなたの参加を熱烈歓迎いたします
+
+あなたの参加を熱烈歓迎いたします。
